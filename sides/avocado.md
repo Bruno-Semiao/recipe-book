@@ -4,3 +4,7 @@
 - Make plant
 - Get plant
 - Done
+
+## Ingredients
+- Seed
+- Water
